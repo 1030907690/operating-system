@@ -1,5 +1,0 @@
-megs:16
-romimage: file=D:/work/self/temp/operating-system/1
-vgaromimage: file=D:/work/self/temp/operating-system/1/boot.bin
-floppya: 1_44="Tinix.img", status=inserted
-boot: Tinix
